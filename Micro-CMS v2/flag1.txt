@@ -1,0 +1,4 @@
+como ya estamos loguiados vamos a usar
+burpsuite con repeat para quitar las credenciales
+de cookie and ID damos go en repeat y este nos mostrara el
+flag osea  estamos siguiendo loguiados sin las credenciales

